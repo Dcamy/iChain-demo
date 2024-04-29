@@ -2,7 +2,6 @@
   "name": "SGC",
   "version": "0.0.1",
   "private": true,
-  "homepage": "https://dcamy.github.io/iChain-demo",
   "dependencies": {
     "@craco/craco": "^6.3.0",
     "@tailwindcss/forms": "^0.3.4",
@@ -30,8 +29,7 @@
     "build": "craco build",
     "test": "craco test",
     "eject": "craco eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "predeploy": "npm run build"
   },
   "eslintConfig": {
     "extends": [
