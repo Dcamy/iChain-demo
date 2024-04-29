@@ -2,6 +2,7 @@
   "name": "SGC",
   "version": "0.0.1",
   "private": true,
+  "homepage": "https://dcamy.github.io/",
   "dependencies": {
     "@craco/craco": "^6.3.0",
     "@tailwindcss/forms": "^0.3.4",
@@ -23,7 +24,6 @@
     "web-vitals": "^1.1.2",
     "web3": "^4.7.0"
   },
-  
   "scripts": {
     "start": "craco start",
     "start-fix": "craco start",
@@ -52,7 +52,7 @@
   },
   "description": "Crowdfunding Dapp",
   "main": "index.js",
-  "repository": "https://github.com/Dcamy/SGC.git",
+  "repository": "https://github.com/Dcamy/iChain-demo.git",
   "author": "Dcamy",
   "license": "Private",
   "devDependencies": {
